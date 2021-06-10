@@ -1,1 +1,0 @@
-from kurtzweil import app
